@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker",
+  "description": "Monthly budget tracker with dynamic Canvas charts, custom categories, multiple income tracking, PDF reports, cloud backup simulation, and a Gemini-powered high-thinking financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
